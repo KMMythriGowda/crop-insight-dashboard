@@ -76,7 +76,20 @@ The uploaded dataset must contain the following columns:
 * Production
 
 ---
+📦 Requirements
 
+Install required packages before running the project:
+
+install.packages(c(
+  "shiny",
+  "ggplot2",
+  "dplyr",
+  "plotly",
+  "readr",
+  "scales"
+))
+
+---
 ## ▶️ How to Run the Project
 
 1. Open the project in RStudio
