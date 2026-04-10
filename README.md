@@ -54,6 +54,20 @@ An interactive **R Shiny dashboard** designed to analyze crop production data, v
 
 ---
 
+📦 Requirements
+
+Install required packages before running the project:
+
+install.packages(c(
+  "shiny",
+  "ggplot2",
+  "dplyr",
+  "plotly",
+  "readr",
+  "scales"
+))
+
+---
 ## 📂 Project Structure
 
 ```
@@ -75,19 +89,6 @@ The uploaded dataset must contain the following columns:
 * Crop_Year
 * Production
 
----
-📦 Requirements
-
-Install required packages before running the project:
-
-install.packages(c(
-  "shiny",
-  "ggplot2",
-  "dplyr",
-  "plotly",
-  "readr",
-  "scales"
-))
 
 ---
 ## ▶️ How to Run the Project
