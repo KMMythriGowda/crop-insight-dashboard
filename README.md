@@ -56,10 +56,12 @@ An interactive **R Shiny dashboard** designed to analyze crop production data, v
 
 ## 📂 Project Structure
 
+```
 crop-insight-dashboard/
-│── app.R / ui.R / server.R
+│── app.R  (or ui.R + server.R)
 │── data/
 │── README.md
+```
 
 ---
 
