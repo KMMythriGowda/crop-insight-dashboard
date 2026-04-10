@@ -54,7 +54,7 @@ An interactive **R Shiny dashboard** designed to analyze crop production data, v
 
 ---
 
-📦 Requirements
+## 📦 Requirements
 
 Install required packages before running the project:
 
